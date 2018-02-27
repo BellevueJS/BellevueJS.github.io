@@ -63,6 +63,10 @@ section {
 	padding: 16px;
 }
 
+h1 {
+	font-size: 3rem;
+}
+
 p {
 	font-size: 1.8rem;
 	line-height: 1.4;
