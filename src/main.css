@@ -17,13 +17,27 @@ body {
 }
 
 a, a:link, a:visited, a:hover a:active {
-	color: #5D5D5D;
+	color: #348979;
 	text-decoration: none;
+}
+
+a:hover
+{
+	text-decoration: underline;
 }
 
 header {
 	padding: 16px;
 	text-align: center;
+}
+
+header a, header a:link, header a:visited, header a:hover header a:active {
+	color: #5D5D5D;
+	text-decoration: none;
+}
+
+h1 {
+	margin-top: 0;
 }
 
 h3 {
